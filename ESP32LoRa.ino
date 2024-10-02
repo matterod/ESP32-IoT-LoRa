@@ -1,3 +1,5 @@
+//Este codigo es para el ESP32 con wifi que se comunica a traves de RadioFrecuencia LoRa con el Arduino que no tiene conexion a internet.
+//La distancia depende del campo y de la antena. Ver tutoriales para crear una antena de radiofrecuencia 433mhz robusta.
 #include <FirebaseESP32.h>
 #include <WiFi.h>
 #include <SPI.h>
