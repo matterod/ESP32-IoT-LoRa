@@ -1,3 +1,5 @@
+//Este codigo es para una persona con acceso a Internet que quiera controlar su casa a distancia desde cualquier parte con un ESP32. 
+//Este codigo pretende NO utilizar LoRa. Ver repositorio para LoRa
 #include <FirebaseESP32.h>
 #include <WiFi.h>
 #include <DHT.h>
