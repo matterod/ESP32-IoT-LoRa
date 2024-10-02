@@ -61,4 +61,4 @@ Si te pinta mejorar este proyecto, sos más que bienvenido a mandar un **pull re
 
 ---
 
-Desarrollado por **Mateo**.
+Desarrollado por **Mateo Rodriguez y Agustin Trachta**.
