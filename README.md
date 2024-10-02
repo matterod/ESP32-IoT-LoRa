@@ -44,8 +44,8 @@ El dispositivo cuenta con una **carcasa personalizada**, diseñada a medida util
 
 Imágenes del dispositivo final y carcasa.
 
-![Vista del dispositivo final](images/Circuito.jpeg)
-![Carcasa impresa en 3D](images/Carcasa.jpeg)
+<img src="images/Circuito.jpeg" alt="Vista del dispositivo final" width="400"/>
+<img src="images/Carcasa.jpeg" alt="Carcasa impresa en 3D" width="400"/>
 
 ## Cómo Usar Este Repositorio
 
