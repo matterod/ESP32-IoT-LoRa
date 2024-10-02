@@ -13,7 +13,7 @@
 #define SEND_PIN 12
 
 #define FIREBASE_HOST "Tu Firebase Host"
-#define FIREBASE_AUTH "El ID del mail del cliente"
+#define FIREBASE_AUTH "Tu firebase Auth"
 
 FirebaseData firebaseData;
 FirebaseConfig firebaseConfig;
