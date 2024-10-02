@@ -36,12 +36,17 @@ Una vez que la PCB estuvo lista, se ensambló con los siguientes componentes:
 - **Modulo RF FS1000A**: Utilizado para encender y apagar la calefacción.
 - **Sensores (opcional)**: Como el **DHT11** para medir la temperatura y ajustar la calefacción.
 
+### 3. Diseño y Fabricación de la Carcasa
+
+El dispositivo cuenta con una **carcasa personalizada**, diseñada a medida utilizando un programa de diseño 3D y fabricada mediante **impresión 3D**. La carcasa fue creada para proteger los componentes electrónicos y dar un acabado estético y funcional al dispositivo.
+
 ## Imágenes del Proyecto
 
-Imágenes del dispositivo final y el proceso de fabricación de la PCB.
+Imágenes del dispositivo final y el proceso de fabricación de la PCB y carcasa.
 
 ![Vista del dispositivo final](ruta/a/tu/imagen1.jpg)
 ![Proceso de fabricación con ácido férrico](ruta/a/tu/imagen2.jpg)
+![Carcasa impresa en 3D](ruta/a/tu/imagen3.jpg)
 
 ## Cómo Usar Este Repositorio
 
@@ -53,7 +58,6 @@ Imágenes del dispositivo final y el proceso de fabricación de la PCB.
 ## Contribuciones
 
 Si te pinta mejorar este proyecto, sos más que bienvenido a mandar un **pull request** o abrir un **issue** para reportar errores o tirar alguna idea.
-
 
 ---
 
