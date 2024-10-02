@@ -33,26 +33,27 @@ Para este proyecto, se fabricó una **PCB personalizada** utilizando el método 
 Una vez que la PCB estuvo lista, se ensambló con los siguientes componentes:
 - **ESP32**: El cerebro del dispositivo que gestiona la conectividad WiFi y LoRa.
 - **Módulo LoRa SX1278**: Permite la comunicación de largo alcance entre los ESP32.
-- **Relé de control**: Utilizado para encender y apagar la calefacción.
+- **Modulo RF FS1000A**: Utilizado para encender y apagar la calefacción.
 - **Sensores (opcional)**: Como el **DHT11** para medir la temperatura y ajustar la calefacción.
 
 ## Imágenes del Proyecto
 
-Aquí puedes ver imágenes del dispositivo final y el proceso de fabricación de la PCB.
+Imágenes del dispositivo final y el proceso de fabricación de la PCB.
 
 ![Vista del dispositivo final](ruta/a/tu/imagen1.jpg)
 ![Proceso de fabricación con ácido férrico](ruta/a/tu/imagen2.jpg)
 
 ## Cómo Usar Este Repositorio
 
-1. **Clona este repositorio** en tu computadora local.
-2. **Carga el código en tu ESP32** utilizando el **Arduino IDE** (consulta los archivos del repositorio para más detalles).
-3. **Configura los dispositivos** con los módulos LoRa y realiza las conexiones eléctricas necesarias.
-4. **Prueba la comunicación LoRa** entre los ESP32 y verifica el control remoto del dispositivo.
+1. **Cloná este repositorio** en tu compu.
+2. **Cargá el código en tu ESP32** usando el **Arduino IDE** (fijate en los archivos del repo para más info).
+3. **Configurá los dispositivos** con los módulos LoRa y hacé las conexiones eléctricas que hagan falta.
+4. **Probá la comunicación LoRa** entre los ESP32 y chequeá que funcione bien el control remoto del equipo.
 
 ## Contribuciones
 
-Si quieres mejorar este proyecto, eres bienvenido a realizar **pull requests** o a **abrir issues** para reportar errores o sugerencias de mejora.
+Si te pinta mejorar este proyecto, sos más que bienvenido a mandar un **pull request** o abrir un **issue** para reportar errores o tirar alguna idea.
+
 
 ---
 
