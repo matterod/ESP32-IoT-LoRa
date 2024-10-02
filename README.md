@@ -44,9 +44,9 @@ El dispositivo cuenta con una **carcasa personalizada**, diseñada a medida util
 
 Imágenes del dispositivo final y el proceso de fabricación de la PCB y carcasa.
 
-![Vista del dispositivo final](ruta/a/tu/imagen1.jpg)
+![Vista del dispositivo final](images/Circuito ESP32 sin LoRa.jpg)
 ![Proceso de fabricación con ácido férrico](ruta/a/tu/imagen2.jpg)
-![Carcasa impresa en 3D](ruta/a/tu/imagen3.jpg)
+![Carcasa impresa en 3D](images/Carcasa.jpg)
 
 ## Cómo Usar Este Repositorio
 
